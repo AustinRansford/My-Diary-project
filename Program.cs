@@ -33,13 +33,17 @@ namespace My_Diary_proje
         }
 
 
-        static void WriteJournalEntry()
+        static async void WriteJournalEntry()
         {
             Console.WriteLine("You have chosen to write an entry.\nWhat is today's date?\n return a date in the MM/DD/YEAR:");
             string CurrentDate = Console.ReadLine();
+            CurrentDate.Replace('/', '-');
+            // this line above doesnt seem to replace the / with - idk why
+Console.WriteLine(CurrentDate);
             Console.WriteLine("Enter your entry now!");
             string entry = Console.ReadLine();
-            string path = $@"\JournalEntries\JournalEntry{CurrentDate}.txt";
+            string path = $@"JournalEntry{CurrentDate}.txt";
+            // Fgure out how to put the new file in a folder so they arent just everywhere
            File.CreateText(path);
         
 
