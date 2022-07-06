@@ -1,0 +1,15 @@
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.csproj.AssemblyReference.cache
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.AssemblyInfoInputs.cache
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.AssemblyInfo.cs
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.csproj.CoreCompileInputs.cache
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/My-Diary-project.deps.json
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/My-Diary-project.runtimeconfig.json
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/My-Diary-project.runtimeconfig.dev.json
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/My-Diary-project.dll
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/ref/My-Diary-project.dll
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/bin/Debug/net5.0/My-Diary-project.pdb
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.dll
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/ref/My-Diary-project.dll
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.pdb
+/Users/austinransford/Documents/GitHub/DataEncodinginCsharp/My-Diary-project/obj/Debug/net5.0/My-Diary-project.genruntimeconfig.cache
