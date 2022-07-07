@@ -40,11 +40,13 @@ namespace My_Diary_proje
             CurrentDate.Replace('/', '-');
             // this line above doesnt seem to replace the / with - idk why
 Console.WriteLine(CurrentDate);
-            Console.WriteLine("Enter your entry now!");
-            string entry = Console.ReadLine();
             string path = $@"JournalEntry{CurrentDate}.txt";
             // Fgure out how to put the new file in a folder so they arent just everywhere
            File.CreateText(path);
+           Console.WriteLine("Enter your entry now!");
+            string entry = Console.ReadLine();
+            File.AppendAllText(path, entry);
+            
         
 
 
